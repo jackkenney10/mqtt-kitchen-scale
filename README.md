@@ -2,6 +2,9 @@
 
 ESP32-based kitchen scale using an HX711 load cell amplifier. Publishes weight readings over MQTT and is designed to be monitored and controlled via **Ignition** (or any MQTT-capable SCADA/HMI). It's intended to be used in conjunction with a nutrition database to create a homebrew calorie/macro tracking app in Ignition, where a food item is selected, and nutritional content is calculated based on the weight and the values from the selected food item.
 
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/9e09bf83-022a-4b57-9c0c-2df76a899243" />
+
+
 ## Hardware
 
 | Component | Pin |
